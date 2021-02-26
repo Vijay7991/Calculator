@@ -1,0 +1,2 @@
+This calculator is crated using google and youtube references.
+its used pre build javascript to handel events.
